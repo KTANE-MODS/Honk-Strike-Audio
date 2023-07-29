@@ -1,0 +1,10 @@
+{
+  "name": "FNAFHonkStrikeSound-Editor",
+  "references": [
+    "FNAFHonkStrikeSound"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
